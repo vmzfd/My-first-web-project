@@ -1,0 +1,16 @@
+body
+{
+   background-color: white;
+   color:black;
+   font-size: large;
+}
+body img
+{
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+div
+{
+   height: 600px;
+}

@@ -1,0 +1,193 @@
+body
+{
+    background-image: url("../pics/1610898842_22-p-armeiskii-fon-dlya-prezentatsii-30.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: 'Roboto Slab';
+}
+section img
+{
+    height: 200px;
+    position: relative;
+    left: -80px;
+    width: 400px;
+}
+
+
+
+
+
+div
+{
+    display: inline-block;
+}
+div:hover
+{
+    box-shadow: 21px -11px 3px 5px rgba(18, 18, 19, 0.35);
+}
+.div1
+{
+    vertical-align: top;
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    overflow: hidden;
+    text-align: center;
+    margin-left: 500px;
+}
+.div1:hover
+{
+    transition: 2s;
+    height: 550px;
+}
+.div2
+{
+    vertical-align: top;
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    overflow: hidden;
+    text-align: center;
+}
+.div2:hover
+{
+    transition: 2s;
+    height: 500px;
+}
+.div3
+{
+    vertical-align: top;
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    overflow: hidden;
+    text-align: center;
+}
+.div3:hover
+{
+    transition: 2s;
+    height: 550px;
+}
+
+.div4
+{
+    vertical-align: top;
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    overflow: hidden;
+    text-align: center;
+    margin-left: 500px;
+}
+.div4:hover
+{
+    transition: 2s;
+    height: 580px;
+}
+.div5
+{
+    vertical-align: top;
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    overflow: hidden;
+    text-align: center;
+}
+.div5:hover
+{
+    transition: 2s;
+    height: 570px;
+}
+.div6
+{
+    vertical-align: top;
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    overflow: hidden;
+    text-align: center;
+}
+.div6:hover
+{
+    transition: 2s;
+    height: 720px;
+}
+
+
+.div7
+{
+    vertical-align: top;
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    overflow: hidden;
+    text-align: center;
+    margin-left: 500px;
+}
+.div7:hover
+{
+    transition: 2s;
+    height: 650px;
+}
+.div8
+{
+    vertical-align: top;
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    overflow: hidden;
+    text-align: center;
+}
+.div8:hover
+{
+    transition: 2s;
+    height: 450px;
+}
+.div9
+{
+    vertical-align: top;
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    overflow: hidden;
+    text-align: center;
+}
+.div9:hover
+{
+    transition: 2s;
+    height: 650px;
+}
+h2
+{
+    margin-left: 500px;
+}
+
+
+
+
+
+
+.div3 img
+{
+    position: relative;
+    left: -80px;
+}
+.div4 img
+{
+    position: relative;
+    left: -80px;
+}
+
+
+
+@media(orientation: portrait)
+{
+	div
+	{
+		margin-left: 500px;
+        display:block;
+	}
+}
+
+

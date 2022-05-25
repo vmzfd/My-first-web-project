@@ -1,0 +1,43 @@
+footer
+{
+    background-image: url("../pics/1610898842_22-p-armeiskii-fon-dlya-prezentatsii-30.jpg");
+    color: white;
+    padding: 50px;
+    text-align: right;
+}
+footer img
+{
+    vertical-align: middle;
+    width: 60px;
+    transition:1s;
+}
+footer a
+{
+    color:white;
+    padding: 8px;
+    border-radius: 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+footer .vk:hover
+{
+    background-color: #2b5297;
+}
+footer .youtube:hover
+{
+    background-color: #c30000;
+}
+footer .telegram:hover
+{
+    background-color: #26a614;
+}
+footer .snapchat:hover
+{
+    background-color: #fdfd03;
+}
+footer img
+{
+    border-radius: 50%;
+}
